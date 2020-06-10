@@ -30,7 +30,7 @@ twitter_username: nabion
 github_username:  nagiton
 
 # Build settings
-theme: tactile
+theme: jekyll-theme-tactile
 plugins:
   - jekyll-feed
 
